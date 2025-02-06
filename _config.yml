@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kazue Kurosaki"
 description              : "Suka baca novel dari luar negeri tapi kesulitan memahami bahasanya? Tenang, Hoshizora Bunko ada buat kamu! Kami menerjemahkan cerita menarik dari berbagai penjuru dunia, biar kamu bisa menikmati kisah-kisah seru tanpa ribet. Yuk, jelajahi dunia baru lewat kata-kata!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://hikari-bunko.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/hoshizora-bunko" # the subpath of your site, e.g. "/blog"
+repository               : "hikari-bunko/hoshizora-bunko" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

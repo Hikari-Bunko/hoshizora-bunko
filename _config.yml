@@ -21,7 +21,7 @@ title                    : "Hoshizora Bunko"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kazue Kurosaki"
-description              : "An amazing website."
+description              : "Suka baca novel dari luar negeri tapi kesulitan memahami bahasanya? Tenang, Hoshizora Bunko ada buat kamu! Kami menerjemahkan cerita menarik dari berbagai penjuru dunia, biar kamu bisa menikmati kisah-kisah seru tanpa ribet. Yuk, jelajahi dunia baru lewat kata-kata!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

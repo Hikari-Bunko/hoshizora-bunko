@@ -24,7 +24,7 @@ after_footer_scripts:
 
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "id-ID"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Hoshizora Bunko"
 title_separator          : "-"
